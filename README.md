@@ -9,6 +9,6 @@ We use DAX language to handle conditions on profile visualization regarding colo
 # Microsoft Power BI
 # Power Query
 # DAX Query
-##Goal
+## Goal
 By creating calculated measures for profit, product quantity, and profit margin, and by using color coding for each value, we can make informed decisions on how to improve marketing strategies
 and Top & Bottom 5 Products Analysis
